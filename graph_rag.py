@@ -161,3 +161,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# To Run:
+# .venv\Scripts\activate
+# python graph_rag.py
