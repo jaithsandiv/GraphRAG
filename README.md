@@ -1,6 +1,4 @@
-# Repository Description
-
-**GraphRAG: Lightweight Graph-Enhanced Retrieval-Augmented Generation**
+# GraphRAG: Lightweight Graph-Enhanced Retrieval-Augmented Generation #
 
 A CPU-friendly implementation of GraphRAG that improves document retrieval by combining vector similarity search with semantic graph expansion. Uses lightweight models (SentenceTransformers + Flan-T5) for local execution without GPU requirements.
 
